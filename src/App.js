@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
+import Achivements from "./components/Achivements";
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Home />
       <About />
       <Skills />
+      <Achivements />
       <Experience />
       <Projects />
       <Contact />

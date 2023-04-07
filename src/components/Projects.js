@@ -19,26 +19,26 @@ const Projects = () => {
       <div>Inventory Management
           <p>(Feb2021-Jun2021) </p>
         <div>                        
-            <p> • Inventory management is basically used to manage items in store. Basically used to man- age and tracking items.</p> 
-            <p>  • We analyzed requirements and we have done development on that work flow.</p>
-            <p>  • Development Using HTML5, CSS3,Jquery,Angular7,Java Script</p>
+            <p className='marginLeft'> • Inventory management is basically used to manage items in store. Basically used to man- age and tracking items.</p> 
+            <p className='marginLeft'>  • We analyzed requirements and we have done development on that work flow.</p>
+            <p className='marginLeft'>  • Development Using HTML5, CSS3,Jquery,Angular7,Java Script</p>
         </div>
       </div>
      <div> Deploying a multi-tier Websites using AWS EC2</div>
         <p>(Aug2019-Dec2019)</p>
       <div>  
-        <p>• In this AWS project I launched an EC2 in- stance without the need to invest in hardware up , sothat can develop and deploy applica- tions faster.</p>
-        <p>• Launch an EC2 Instance</p>
-        <p>• Enable Auto Scaling of EC2 Broadcast, fire- base for the databse.</p>
-        <p>• Create an RDS Instance</p>
-        <p>• Allow traffic from EC2 to RDS Instance</p>
+        <p className='marginLeft'>• In this AWS project I launched an EC2 in- stance without the need to invest in hardware up , sothat can develop and deploy applica- tions faster.</p>
+        <p className='marginLeft'>• Launch an EC2 Instance</p>
+        <p className='marginLeft'>• Enable Auto Scaling of EC2 Broadcast, fire- base for the databse.</p>
+        <p className='marginLeft'>• Create an RDS Instance</p>
+        <p className='marginLeft'>• Allow traffic from EC2 to RDS Instance</p>
       </div>
       <div>Website Orchestration</div>
-        <p>• In this AWS project I deployed a high- availability PHP application with an external</p>  
-        <p>• Amazon RDS database to Elastic Beanstalk. Running a DB instance external to Elastic Beanstalk decouples the database from the lifecycle of our environment</p> 
-        <p>• Launch an EC2 Instance</p>
-        <p>• Create an Elastic Beanstalk Environment</p>
-        <p>• Configure Security Groups and Scaling</p>
+        <p className='marginLeft'>• In this AWS project I deployed a high- availability PHP application with an external</p>  
+        <p className='marginLeft'>• Amazon RDS database to Elastic Beanstalk. Running a DB instance external to Elastic Beanstalk decouples the database from the lifecycle of our environment</p> 
+        <p className='marginLeft'>• Launch an EC2 Instance</p>
+        <p className='marginLeft'>• Create an Elastic Beanstalk Environment</p>
+        <p className='marginLeft'>• Configure Security Groups and Scaling</p>
 {/* container for projects */}
 {/* <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4"> */}
           
